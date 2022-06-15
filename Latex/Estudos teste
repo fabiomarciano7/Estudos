@@ -1,0 +1,14 @@
+\documentclass{report}
+
+\title{Teste 1}
+\author{Fábio}
+\date{Junho 2022}
+
+\begin{document}
+    
+\maketitle
+
+\section{Introdução}
+
+
+\end{document}
